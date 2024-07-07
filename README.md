@@ -1,2 +1,2 @@
-# Mindedcoded-demo
+# Mukesh Coding Learning
 This is my first Git Repository
