@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.column{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    text-align: justify;
+    font-size: 20px;
+    text-transform: lowercase;
+    /* text-indent: 30px; */
+    /* letter-spacing: 20px; */
+    line-height: 50px;
+    /* text-shadow: 20px 10px 3px red; */
+    }
+    .column a{
+        text-decoration: none;
+        cursor: grab;
+        cursor: pointer;
+        /* cursor: no-drop; */
+    }
