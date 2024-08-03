@@ -1,0 +1,16 @@
+/* space( )=>descendent selector */
+.descendant p{
+    background-color: aqua;
+}
+/* child selector=>(>) */
+.child>p{
+    color: red;
+}
+/* adjacent sibling selector=>+ */
+.adjacent+h2{
+    font-size: 100px;
+}
+/* general sibling selector=>(~) */
+.general~h2{
+    background-color: rgb(221, 221, 33);
+}
