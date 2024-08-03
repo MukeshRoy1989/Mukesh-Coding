@@ -1,0 +1,17 @@
+.column{
+    width:600px;
+    height:600px;
+    padding:30px 40px 50px 60px;
+    margin:40px;
+    border:10px dotted blue;
+    background: url("./himalaya-pictures.jpg");
+    /* background-image: image-set(width 600px height 600px); */
+    background-size: 600px 600px;
+    color: blue;
+    font-size: 20px;
+    background-repeat:no-repeat;
+    background-position: top left;
+    background-color: rgb(28, 183, 183);
+    background-attachment:scroll;
+    background-origin: border-box;
+}
