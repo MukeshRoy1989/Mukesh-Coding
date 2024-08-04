@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adjacent Sibling Selector</title>
+    <style>
+        div+p{
+            color: wheat;
+            background-color: rebeccapurple;
+            font-size: 80px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Adjacent Sibling Selector </h1>
+    <div>
+        <p style="font-size: 60px;">Paragraph 1.(As the name suggests this selector only selects the adjacent element to the specified element.)</p>
+        <p>Paragraph 2.</p>
+        <section>Paragraph 3.</section>
+        <p>Paragraph 4.</p>
+    </div>
+    <p>Paragraph 5.</p>
+    <p>Paragraph 6.</p>
+</body>
+</html>
