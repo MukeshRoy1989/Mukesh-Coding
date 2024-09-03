@@ -70,23 +70,5 @@ Example
 HTML <sub> Element
 The HTML <sub> element defines subscript text. Subscript text appears half a character below the normal line, and is sometimes rendered in a smaller font. Subscript text can be used for chemical formulas, like H2O:
 
-Example
-<p>This is <sub>subscripted</sub> text.</p>
-HTML <sup> Element
-The HTML <sup> element defines superscript text. Superscript text appears half a character above the normal line, and is sometimes rendered in a smaller font. Superscript text can be used for footnotes, like WWW[1]:
-
-Example
-<p>This is <sup>superscripted</sup> text.</p>
-HTML Exercises
-Test Yourself With Exercises
-Exercise:
-Add extra importance to the word "degradation" in the paragraph below.
-
-<p>
-WWF's mission is to stop the 
-degradation
- of our planet's natural environment.
-</p>
-
 
 
