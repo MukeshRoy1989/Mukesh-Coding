@@ -57,6 +57,6 @@ The HTML <mark> element defines text that should be marked or highlighted:
 
 Example
 <p>Do not forget to buy <mark>milk</mark> today.</p>
-HTML <del> Element
+
 
 
