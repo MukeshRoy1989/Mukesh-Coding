@@ -60,15 +60,3 @@ Example
 HTML <del> Element
 The HTML <del> element defines text that has been deleted from a document. Browsers will usually strike a line through deleted text:
 
-Example
-<p>My favorite color is <del>blue</del> red.</p>
-HTML <ins> Element
-The HTML <ins> element defines a text that has been inserted into a document. Browsers will usually underline inserted text:
-
-Example
-<p>My favorite color is <del>blue</del> <ins>red</ins>.</p>
-HTML <sub> Element
-The HTML <sub> element defines subscript text. Subscript text appears half a character below the normal line, and is sometimes rendered in a smaller font. Subscript text can be used for chemical formulas, like H2O:
-
-
-
